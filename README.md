@@ -10,3 +10,4 @@
 fetch & merge  
 a  
 b
+c  
