@@ -9,5 +9,5 @@
 ## prac5
 fetch & merge  
 a  
-b
+b  
 c  
