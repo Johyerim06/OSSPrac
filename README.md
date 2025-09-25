@@ -7,5 +7,6 @@
 - Subject : Git & GitHub
 
 ## prac5
-fetch & merge  
+fetch & merge
 a
+b
